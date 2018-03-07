@@ -5,7 +5,11 @@
 課程名稱   | 人工智慧
 開課單位   | 金門大學資訊工程系
 開課年度   | 106 學年下學期
+<<<<<<< HEAD
 學員姓名   | 謝昇遠
+=======
+學員姓名   | 
+>>>>>>> 41d64a4823c3cde6acfe306f302fdddc766b708d
 教師姓名   | 陳鍾誠
 上課教材   | [wiki](https://github.com/cccnqu/ai106b/wiki)
 程式範例   | [example](example)
